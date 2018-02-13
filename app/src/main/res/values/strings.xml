@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">intentActivity</string>
+    <string name="go_to">Show next Activity</string>
+    <string name="secontActivity">secontActivity</string>
+</resources>
